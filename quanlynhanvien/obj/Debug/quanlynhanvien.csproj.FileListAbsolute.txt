@@ -2,9 +2,10 @@ D:\c#\quanlynhanvien\quanlynhanvien\bin\Debug\quanlynhanvien.exe.config
 D:\c#\quanlynhanvien\quanlynhanvien\bin\Debug\quanlynhanvien.exe
 D:\c#\quanlynhanvien\quanlynhanvien\bin\Debug\quanlynhanvien.pdb
 D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.csproj.AssemblyReference.cache
-D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.Form1.resources
 D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.Properties.Resources.resources
 D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.csproj.GenerateResource.cache
 D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.csproj.CoreCompileInputs.cache
 D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.exe
 D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.pdb
+D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.Formnhanvien.resources
+D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.FormRegister.resources
