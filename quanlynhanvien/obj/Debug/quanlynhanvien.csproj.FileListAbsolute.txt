@@ -9,3 +9,7 @@ D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.exe
 D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.pdb
 D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.Formnhanvien.resources
 D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.FormRegister.resources
+D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.FormLogin.resources
+D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.FormChamcong.resources
+D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.FormLichchamcong.resources
+D:\c#\quanlynhanvien\quanlynhanvien\obj\Debug\quanlynhanvien.FormSalary.resources

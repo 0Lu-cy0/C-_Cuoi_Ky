@@ -40,7 +40,7 @@
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnUpdate = new System.Windows.Forms.Button();
             this.btnAdd = new System.Windows.Forms.Button();
-            this.txtRole = new System.Windows.Forms.TextBox();
+            this.txtDateofBirth = new System.Windows.Forms.TextBox();
             this.txtAddress = new System.Windows.Forms.TextBox();
             this.txtPhoneNumber = new System.Windows.Forms.TextBox();
             this.txtEmail = new System.Windows.Forms.TextBox();
@@ -72,6 +72,8 @@
             this.label16 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
             this.label18 = new System.Windows.Forms.Label();
+            this.label19 = new System.Windows.Forms.Label();
+            this.txtRole = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -125,13 +127,15 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(126)))), ((int)(((byte)(111)))));
+            this.panel2.Controls.Add(this.txtRole);
+            this.panel2.Controls.Add(this.label19);
             this.panel2.Controls.Add(this.button2);
             this.panel2.Controls.Add(this.button1);
             this.panel2.Controls.Add(this.btnLoad);
             this.panel2.Controls.Add(this.btnDelete);
             this.panel2.Controls.Add(this.btnUpdate);
             this.panel2.Controls.Add(this.btnAdd);
-            this.panel2.Controls.Add(this.txtRole);
+            this.panel2.Controls.Add(this.txtDateofBirth);
             this.panel2.Controls.Add(this.txtAddress);
             this.panel2.Controls.Add(this.txtPhoneNumber);
             this.panel2.Controls.Add(this.txtEmail);
@@ -191,10 +195,10 @@
             this.btnAdd.UseVisualStyleBackColor = true;
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
-            // txtRole
+            // txtDateofBirth
             // 
-            resources.ApplyResources(this.txtRole, "txtRole");
-            this.txtRole.Name = "txtRole";
+            resources.ApplyResources(this.txtDateofBirth, "txtDateofBirth");
+            this.txtDateofBirth.Name = "txtDateofBirth";
             // 
             // txtAddress
             // 
@@ -394,6 +398,16 @@
             this.label18.ForeColor = System.Drawing.Color.White;
             this.label18.Name = "label18";
             // 
+            // label19
+            // 
+            resources.ApplyResources(this.label19, "label19");
+            this.label19.Name = "label19";
+            // 
+            // txtRole
+            // 
+            resources.ApplyResources(this.txtRole, "txtRole");
+            this.txtRole.Name = "txtRole";
+            // 
             // Formnhanvien
             // 
             resources.ApplyResources(this, "$this");
@@ -441,7 +455,7 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.TextBox txtRole;
+        private System.Windows.Forms.TextBox txtDateofBirth;
         private System.Windows.Forms.TextBox txtAddress;
         private System.Windows.Forms.TextBox txtPhoneNumber;
         private System.Windows.Forms.TextBox txtEmail;
@@ -468,6 +482,8 @@
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.TextBox txtRole;
+        private System.Windows.Forms.Label label19;
     }
 }
 

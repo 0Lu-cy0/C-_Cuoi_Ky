@@ -16,7 +16,7 @@ namespace quanlynhanvien
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Formnhanvien());
+            Application.Run(new FormLichchamcong());
         }
     }
 }
